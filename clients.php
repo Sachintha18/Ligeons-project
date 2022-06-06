@@ -46,7 +46,7 @@
                         <div class="centered">
                             <div class="container">
                                 <div class="visual-text visual-center">
-                                    <h1 class="visual-title visual-sub-title">Blog</h1>
+                                    <h1 class="visual-title visual-sub-title">Our Clients</h1>
                                     <div class="breadcrumb-block">
                                         <ol class="breadcrumb">
                                             <li class="breadcrumb-item"><a href="index.php"> Home </a></li>

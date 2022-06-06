@@ -108,30 +108,29 @@
                                     </div>
                                     <div class="col-lg-6 col-xl-5 offset-xl-1">
                                         <div class="info-slot">
-                                            <div class="icon"><span class="custom-icon-map-marker"></span></div>
+                                            <div class="icon"><span class="custom-icon-map-marker icon_blue"></span></div>
                                             <div class="text">
-                                                <address>707 London Road, Isleworth
-                                                    <br>Middlesex, TW7 7QD
-                                                    <br>United Kingdom</address>
+                                                <address>89/7 Naiwala essala, Veyangoda 11100 ,
+                                                    <br>Gampaha,
+                                                    <br>Sri Lanka .</address>
                                             </div>
                                         </div>
                                         <div class="info-slot">
-                                            <div class="icon"><span class="custom-icon-headset"></span></div>
+                                            <div class="icon"><span class="custom-icon-headset icon_blue"></span></div>
                                             <div class="text">
-                                                <ul class="content-list contact-list">
-                                                    <li><span class="label-text">HELPLINE</span> <a href="tel:02078777777">(020) 7877 7777</a></li>
-                                                    <li><span class="label-text">ENQUIRIE</span> <a href="tel:02078777777">(020) 7877 7777</a></li>
-                                                    <li><span class="label-text">FAX</span> <a href="tel:02078777777">(020) 7877 7777</a></li>
+                                                <ul class="content-list contact-list ">
+                                                    <li><span class="label-text">HELPLINE</span> <a href="tel:02078777777">+94 78 855 5849</a></li>
+                                                    <li><span class="label-text">ENQUIRIE</span> <a href="tel:02078777777">+94 77 211 3606</a></li>
                                                 </ul>
                                             </div>
                                         </div>
                                         <div class="info-slot">
-                                            <div class="icon"><span class="custom-icon-message"></span></div>
+                                            <div class="icon"><span class="custom-icon-message icon_blue"></span></div>
                                             <div class="text">
                                                 <ul class="content-list contact-list">
-                                                    <li><a href="mailto:support@roxine-online">support@roxine-online</a></li>
-                                                    <li><a href="mailto:info@roxine-online.com">info@roxine-online.com</a></li>
-                                                    <li><a href="mailto:help@roxine-online.com">help@roxine-online.com</a></li>
+                                                    <li> <span class="label-text">WEBSITE</span><a href="http://ligeons.com/">ligeons.com</a></li>
+                                                    <li><span class="label-text">EMAIL</span><a href="Info.ligeons.com">Info.ligeons.com</a></li>
+                                                
                                                 </ul>
                                             </div>
                                         </div>
@@ -141,7 +140,7 @@
                         </div>
                     </section>
                     <div class="map-holder embed-responsive-21by9 grayscaled-map">
-                        <iframe class="embed-responsive-item" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2485.0605547231917!2d-0.33554378354576586!3d51.47540277962994!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48760cf99dee6c25%3A0xc9d2780dbbcbb933!2sLondon+Rd%2C+Isleworth+TW7%2C+UK!5e0!3m2!1sen!2snp!4v1473394388477" height="450" style="border:0"></iframe>
+                            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2661.21333269978!2d80.03888337820307!3d7.168827772075545!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ae2e3fa9d42b649%3A0x9a3289c22ceb37b3!2sLigeons%20Software%20Solutions!5e0!3m2!1sen!2slk!4v1654270493430!5m2!1sen!2slk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"  style="border:0"></iframe>
                     </div>
 
                 </div>

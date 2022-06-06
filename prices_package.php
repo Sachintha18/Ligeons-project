@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
-    <title>Multi Purpose Creative HTML5 Template - Roxine</title>
+    <title>Ligeons | Prices & Packages</title>
     <!-- Font Icons -->
     <link media="all" rel="stylesheet" href="css/fonts/icomoon/icomoon.css">
     <link media="all" rel="stylesheet" href="css/fonts/roxine-font-icon/roxine-font.css">
@@ -46,11 +46,11 @@
                         <div class="centered">
                             <div class="container">
                                 <div class="visual-text visual-center">
-                                    <h1 class="visual-title visual-sub-title">Blog</h1>
+                                    <h1 class="visual-title visual-sub-title">Prices & Packages</h1>
                                     <div class="breadcrumb-block">
                                         <ol class="breadcrumb">
                                             <li class="breadcrumb-item"><a href="index.php"> Home </a></li>
-                                            <li class="breadcrumb-item"><a href="prices_package.php"> Prices & Packages </a></li>          
+                                            <li class="breadcrumb-item"><a href="prices_package.php"> Prices & Packages </a></li>
                                         </ol>
                                     </div>
                                 </div>
@@ -76,11 +76,11 @@
                                     <div class="col-wrap">
                                         <div class="ico-box bg-gray-light">
                                             <div class="icon">
-                                                <span class="custom-icon-pen-tool"><span class="sr-only">&amp;</span></span>
+                                                <span class="bi bi-pencil"><span class="sr-only">&amp;</span></span>
                                             </div>
-                                            <h4 class="content-title"><a href="#">PIXEL PERFECT</a></h4>
+                                            <h4 class="content-title"><a href="#">UI/UX DESIGN</a></h4>
                                             <div class="des">
-                                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor</p>
+                                                <p>UI design and UX design are two terms that are often confused and mixed in web and application design.</p>
                                             </div>
                                             <div class="link-holder">
                                                 <a class="link-more" href="#">LEARN MORE</a>
@@ -92,11 +92,12 @@
                                     <div class="col-wrap">
                                         <div class="ico-box bg-gray-light">
                                             <div class="icon">
-                                                <span class="custom-icon-vector"><span class="sr-only">&amp;</span></span>
+                                                <span class="bi bi-code-slash"><span class="sr-only">&amp;</span></span>
                                             </div>
-                                            <h4 class="content-title"><a href="#">VECTOR SHAPES</a></h4>
+                                            <h4 class="content-title"><a href="#"> WEB SITE DESIGNING & DEVELOPMENT</a></h4>
                                             <div class="des">
-                                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor</p>
+                                                <p></p>
+                                                Web design consists of several different components such as html, CSS and JavaScript.</p>
                                             </div>
                                             <div class="link-holder">
                                                 <a class="link-more" href="#">LEARN MORE</a>
@@ -108,27 +109,12 @@
                                     <div class="col-wrap">
                                         <div class="ico-box bg-gray-light">
                                             <div class="icon">
-                                                <span class="custom-icon-font-design"><span class="sr-only">&amp;</span></span>
+                                                <span class="bi bi-box-arrow-in-up-right"><span class="sr-only">&amp;</span></span>
                                             </div>
-                                            <h4 class="content-title"><a href="#">GOOGLE FONTS</a></h4>
+                                            <h4 class="content-title"><a href="#">WEB SITE MAINTAIN & UPGRADE</a></h4>
                                             <div class="des">
-                                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor</p>
-                                            </div>
-                                            <div class="link-holder">
-                                                <a class="link-more" href="#">LEARN MORE</a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col-lg-4 col-md-6">
-                                    <div class="col-wrap">
-                                        <div class="ico-box bg-gray-light">
-                                            <div class="icon">
-                                                <span class="custom-icon-layers"><span class="sr-only">&amp;</span></span>
-                                            </div>
-                                            <h4 class="content-title"><a href="#">EASY LAYERS</a></h4>
-                                            <div class="des">
-                                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor</p>
+                                                <p></p>
+                                                  In most cases, your site should take at least a few minutes offline to maintain.</p>
                                             </div>
                                             <div class="link-holder">
                                                 <a class="link-more" href="#">LEARN MORE</a>
@@ -142,9 +128,57 @@
                                             <div class="icon">
                                                 <span class="custom-icon-list"><span class="sr-only">&amp;</span></span>
                                             </div>
-                                            <h4 class="content-title"><a href="#">BOOTSTRAP GRID</a></h4>
+                                            <h4 class="content-title"><a href="#">DATABASE MANAGEMENT</a></h4>
                                             <div class="des">
-                                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor</p>
+                                                <p>Database refers to the storage of data and supported data structures.</p>
+                                            </div>
+                                            <div class="link-holder">
+                                                <a class="link-more" href="#">LEARN MORE</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-4 col-md-6">
+                                    <div class="col-wrap">
+                                        <div class="ico-box bg-gray-light">
+                                            <div class="icon">
+                                                <span class="bi bi-pen"><span class="sr-only">&amp;</span></span>
+                                            </div>
+                                            <h4 class="content-title"><a href="#"> CONTENT WRITING</a></h4>
+                                            <div class="des">
+                                                <p>What is content writing? It is a process of creating digital content.</p>
+                                            </div>
+                                            <div class="link-holder">
+                                                <a class="link-more" href="#">LEARN MORE</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-4 col-md-6">
+                                    <div class="col-wrap">
+                                        <div class="ico-box bg-gray-light">
+                                            <div class="icon">
+                                                <span class="bi bi-camera"><span class="sr-only">&amp;</span></span>
+                                            </div>
+                                            <h4 class="content-title"><a href="#">PHOTOGRAPHY</a></h4>
+                                            <div class="des">
+                                                <p>A photo essay tells a story or emotion through a series of photos that allow viewers to let you get creative explore an idea.</p>
+                                            </div>
+                                            <div class="link-holder">
+                                                <a class="link-more" href="#">LEARN MORE</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-4 col-md-6">
+                                    <div class="col-wrap">
+                                        <div class="ico-box bg-gray-light">
+                                            <div class="icon">
+                                                <span class="bi bi-diagram-3"><span class="sr-only">&amp;</span></span>
+                                            </div>
+                                            <h4 class="content-title"><a href="#"> HIRING SERVICES & MARKETING SERVICES</a></h4>
+                                            <div class="des">
+                                                <p>Abstract integrated marketing communication is a promotional tool for achieving the goals of a marketing campaign.</p>
                                             </div>
                                             <div class="link-holder">
                                                 <a class="link-more" href="#">LEARN MORE</a>
@@ -161,75 +195,75 @@
                     <section class="content-block">
                         <div class="container">
 
-                                <h3 class="text-center element-heading">Pricing Boxes - v2</h3>
-                                <div class="row">
-                                    <div class="col-md-4">
-                                        <div class="pricing-box-v1 pricing-box-v2 text-center">
-                                            <div class="price bg-white"><sup>$</sup>9.99</div>
-                                            <div class="pricing-title bg-gray-light">
-                                                <h4 class="content-title">Basic</h4>
-                                                <div class="divider-double-border"><span class="sr-only"></span></div>
-                                                <span>Monthly Plan</span>
-                                            </div>
-                                            <div class="plan-features">
-                                                <ul>
-                                                    <li>1 GB Bandwidth</li>
-                                                    <li>256 MB Memory</li>
-                                                    <li>24/7 Full Support</li>
-                                                    <li>Free Domain Name</li>
-                                                    <li>Money back Guarantee</li>
-                                                </ul>
-                                            </div>
-                                            <div class="btn-holder">
-                                                <a href="#" class="btn btn-trans-gray-light btn-sm">Hire Us</a>
-                                            </div>
+                            <h3 class="text-center element-heading">Pricing Boxes - v2</h3>
+                            <div class="row">
+                                <div class="col-md-4">
+                                    <div class="pricing-box-v1 pricing-box-v2 text-center">
+                                        <div class="price bg-white"><sup>$</sup>9.99</div>
+                                        <div class="pricing-title bg-gray-light">
+                                            <h4 class="content-title">Basic</h4>
+                                            <div class="divider-double-border"><span class="sr-only"></span></div>
+                                            <span>Monthly Plan</span>
+                                        </div>
+                                        <div class="plan-features">
+                                            <ul>
+                                                <li>1 GB Bandwidth</li>
+                                                <li>256 MB Memory</li>
+                                                <li>24/7 Full Support</li>
+                                                <li>Free Domain Name</li>
+                                                <li>Money back Guarantee</li>
+                                            </ul>
+                                        </div>
+                                        <div class="btn-holder">
+                                            <a href="#" class="btn btn-trans-gray-light btn-sm">Hire Us</a>
                                         </div>
                                     </div>
-                                    <div class="col-md-4">
-                                        <div class="pricing-box-v1 pricing-box-v2 text-center">
-                                            <div class="price bg-gray-light"><sup>$</sup>20.99</div>
-                                            <div class="pricing-title bg-primary text-white">
-                                                <h4 class="content-title">Standard</h4>
-                                                <div class="divider-double-border"><span class="sr-only"></span></div>
-                                                <span>Monthly Plan</span>
-                                            </div>
-                                            <div class="plan-features">
-                                                <ul>
-                                                    <li>1 GB Bandwidth</li>
-                                                    <li>256 MB Memory</li>
-                                                    <li>24/7 Full Support</li>
-                                                    <li>Free Domain Name</li>
-                                                    <li>Money back Guarantee</li>
-                                                </ul>
-                                            </div>
-                                            <div class="btn-holder">
-                                                <a href="#" class="btn btn-primary btn-sm">Hire Us</a>
-                                            </div>
+                                </div>
+                                <div class="col-md-4">
+                                    <div class="pricing-box-v1 pricing-box-v2 text-center">
+                                        <div class="price bg-gray-light"><sup>$</sup>20.99</div>
+                                        <div class="pricing-title bg-primary text-white">
+                                            <h4 class="content-title">Standard</h4>
+                                            <div class="divider-double-border"><span class="sr-only"></span></div>
+                                            <span>Monthly Plan</span>
+                                        </div>
+                                        <div class="plan-features">
+                                            <ul>
+                                                <li>1 GB Bandwidth</li>
+                                                <li>256 MB Memory</li>
+                                                <li>24/7 Full Support</li>
+                                                <li>Free Domain Name</li>
+                                                <li>Money back Guarantee</li>
+                                            </ul>
+                                        </div>
+                                        <div class="btn-holder">
+                                            <a href="#" class="btn btn-primary btn-sm">Hire Us</a>
                                         </div>
                                     </div>
-                                    <div class="col-md-4">
-                                        <div class="pricing-box-v1 pricing-box-v2 text-center">
-                                            <div class="price bg-white"><sup>$</sup>15.99 </div>
-                                            <div class="pricing-title bg-gray-light">
-                                                <h4 class="content-title">Premium</h4>
-                                                <div class="divider-double-border"><span class="sr-only"></span></div>
-                                                <span>Monthly Plan</span>
-                                            </div>
-                                            <div class="plan-features">
-                                                <ul>
-                                                    <li>1 GB Bandwidth</li>
-                                                    <li>256 MB Memory</li>
-                                                    <li>24/7 Full Support</li>
-                                                    <li>Free Domain Name</li>
-                                                    <li>Money back Guarantee</li>
-                                                </ul>
-                                            </div>
-                                            <div class="btn-holder">
-                                                <a href="#" class="btn btn-trans-gray-light btn-sm">Hire Us</a>
-                                            </div>
+                                </div>
+                                <div class="col-md-4">
+                                    <div class="pricing-box-v1 pricing-box-v2 text-center">
+                                        <div class="price bg-white"><sup>$</sup>15.99 </div>
+                                        <div class="pricing-title bg-gray-light">
+                                            <h4 class="content-title">Premium</h4>
+                                            <div class="divider-double-border"><span class="sr-only"></span></div>
+                                            <span>Monthly Plan</span>
+                                        </div>
+                                        <div class="plan-features">
+                                            <ul>
+                                                <li>1 GB Bandwidth</li>
+                                                <li>256 MB Memory</li>
+                                                <li>24/7 Full Support</li>
+                                                <li>Free Domain Name</li>
+                                                <li>Money back Guarantee</li>
+                                            </ul>
+                                        </div>
+                                        <div class="btn-holder">
+                                            <a href="#" class="btn btn-trans-gray-light btn-sm">Hire Us</a>
                                         </div>
                                     </div>
-                              
+                                </div>
+
                             </div>
                         </div>
                     </section>
@@ -239,42 +273,42 @@
                 <div class="content-wrapper">
                     <section class="content-block">
                         <div class="container">
-               
-                                <h3 class="text-center element-heading">Multiple Progress Bar</h3>
-                                <div class="progress-block bottom-space">
-                                    <div class="progress skill-bar">
-                                        <div class="progress-bar bg-primary wow slideInLeft" data-wow-duration="1s" role="progressbar" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100"> <span class="skill"><span class="val">40%</span></span>
-                                        </div>
-                                        <div class="progress-bar bg-gray-dark wow slideInLeft" data-wow-duration="1s" role="progressbar" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"> <span class="skill"><span class="val">25%</span></span>
-                                        </div>
-                                        <div class="progress-bar bg-secondary wow slideInLeft" data-wow-duration="1s" role="progressbar" aria-valuenow="35" aria-valuemin="0" aria-valuemax="100"> <span class="skill"><span class="val">35%</span></span>
-                                        </div>
+
+                            <h3 class="text-center element-heading">Multiple Progress Bar</h3>
+                            <div class="progress-block bottom-space">
+                                <div class="progress skill-bar">
+                                    <div class="progress-bar bg-primary wow slideInLeft" data-wow-duration="1s" role="progressbar" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100"> <span class="skill"><span class="val">40%</span></span>
+                                    </div>
+                                    <div class="progress-bar bg-gray-dark wow slideInLeft" data-wow-duration="1s" role="progressbar" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"> <span class="skill"><span class="val">25%</span></span>
+                                    </div>
+                                    <div class="progress-bar bg-secondary wow slideInLeft" data-wow-duration="1s" role="progressbar" aria-valuenow="35" aria-valuemin="0" aria-valuemax="100"> <span class="skill"><span class="val">35%</span></span>
                                     </div>
                                 </div>
-                                <div class="icon-lists solid-icons inline-block text-md-center">
-                                    <ul>
-                                        <li><a href="#"><span class="bg-primary"></span> PROGRAMMING</a></li>
-                                        <li><a href="#"><span class="bg-dark"></span> UI/UX DESIGN</a></li>
-                                        <li><a href="#"><span class="bg-secondary"></span> ECOMMERCE</a></li>
-                                    </ul>
-                                </div>
-                           
+                            </div>
+                            <div class="icon-lists solid-icons inline-block text-md-center">
+                                <ul>
+                                    <li><a href="#"><span class="bg-primary"></span> PROGRAMMING</a></li>
+                                    <li><a href="#"><span class="bg-dark"></span> UI/UX DESIGN</a></li>
+                                    <li><a href="#"><span class="bg-secondary"></span> ECOMMERCE</a></li>
+                                </ul>
+                            </div>
+
                         </div>
                     </section>
                 </div>
                 <!-- Prograss Bar -->
             </main>
         </div>
-                <!--/main content wrapper -->
-            </main>
-        </div>
-        <!-- footer of the pagse -->
-        <?php
+        <!--/main content wrapper -->
+        </main>
+    </div>
+    <!-- footer of the pagse -->
+    <?php
 
-        include "footer.php";
+    include "footer.php";
 
-        ?>
-        <!--/footer of the page -->
+    ?>
+    <!--/footer of the page -->
     </div>
     <!-- search form wrapper -->
     <div class="search-form-wrapper">

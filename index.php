@@ -235,7 +235,6 @@
         <!--/visual/banner of the page -->
         <!-- main content wrapper -->
         <div class="content-wrapper">
-
             <section class="content-block">
                 <div class="container">
                     <div class="row multiple-row v-align-row">
@@ -244,20 +243,19 @@
                                 <div class="block-heading">
                                     <h3 class="block-top-heading">WHAT WE DO</h3>
                                     <h2 class="block-main-heading">EXPERTS</h2>
-                                    <span class="block-sub-heading">We build digital solutions.</span>
-                                    <div class="divider"><img src="img/divider.png" alt="images description"></div>
+                                    <sup class="block-sub-heading">We build digital solutions.</sup>
                                 </div>
                             </div>
                         </div>
                         <div class="col-lg-4 col-md-6">
                             <div class="col-wrap">
-                                <div class="ico-box bg-gray-light dark-hover">
+                                <div class="ico-box bg-gray-light">
                                     <div class="icon">
-                                        <span class="custom-icon-pen-tool"><span class="sr-only">&amp;</span></span>
+                                        <span class="bi bi-pencil"><span class="sr-only">&amp;</span></span>
                                     </div>
-                                    <h4 class="content-title"><a href="#">PIXEL PERFECT</a></h4>
+                                    <h4 class="content-title"><a href="#">UI/UX DESIGN</a></h4>
                                     <div class="des">
-                                        <p>Auersla, conse ctetur adipis icing lorem ipsum dolor sit amet</p>
+                                        <p>UI design and UX design are two terms that are often confused and mixed in web and application design.</p>
                                     </div>
                                     <div class="link-holder">
                                         <a class="link-more" href="#">LEARN MORE</a>
@@ -267,13 +265,14 @@
                         </div>
                         <div class="col-lg-4 col-md-6">
                             <div class="col-wrap">
-                                <div class="ico-box bg-gray-light dark-hover">
+                                <div class="ico-box bg-gray-light">
                                     <div class="icon">
-                                        <span class="custom-icon-vector"><span class="sr-only">&amp;</span></span>
+                                        <span class="bi bi-code-slash"><span class="sr-only">&amp;</span></span>
                                     </div>
-                                    <h4 class="content-title"><a href="#">VECTOR SHAPES</a></h4>
+                                    <h4 class="content-title"><a href="#"> WEB SITE DESIGNING & DEVELOPMENT</a></h4>
                                     <div class="des">
-                                        <p>Auersla, conse ctetur adipis icing lorem ipsum dolor sit amet</p>
+                                        <p></p>
+                                        Web design consists of several different components such as html, CSS and JavaScript.</p>
                                     </div>
                                     <div class="link-holder">
                                         <a class="link-more" href="#">LEARN MORE</a>
@@ -283,13 +282,14 @@
                         </div>
                         <div class="col-lg-4 col-md-6">
                             <div class="col-wrap">
-                                <div class="ico-box bg-gray-light dark-hover">
+                                <div class="ico-box bg-gray-light">
                                     <div class="icon">
-                                        <span class="custom-icon-font-design"><span class="sr-only">&amp;</span></span>
+                                        <span class="bi bi-box-arrow-in-up-right"><span class="sr-only">&amp;</span></span>
                                     </div>
-                                    <h4 class="content-title"><a href="#">GOOGLE FONTS</a></h4>
+                                    <h4 class="content-title"><a href="#">WEB SITE MAINTAIN & UPGRADE</a></h4>
                                     <div class="des">
-                                        <p>Auersla, conse ctetur adipis icing lorem ipsum dolor sit amet</p>
+                                        <p></p>
+                                          In most cases, your site should take at least a few minutes offline to maintain.</p>
                                     </div>
                                     <div class="link-holder">
                                         <a class="link-more" href="#">LEARN MORE</a>
@@ -299,29 +299,61 @@
                         </div>
                         <div class="col-lg-4 col-md-6">
                             <div class="col-wrap">
-                                <div class="ico-box bg-gray-light dark-hover">
-                                    <div class="icon">
-                                        <span class="custom-icon-layers"><span class="sr-only">&amp;</span></span>
-                                    </div>
-                                    <h4 class="content-title"><a href="#">EASY LAYERS</a></h4>
-                                    <div class="des">
-                                        <p>Auersla, conse ctetur adipis icing lorem ipsum dolor sit amet</p>
-                                    </div>
-                                    <div class="link-holder">
-                                        <a class="link-more" href="#">LEARN MORE</a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-lg-4 col-md-6">
-                            <div class="col-wrap">
-                                <div class="ico-box bg-gray-light dark-hover">
+                                <div class="ico-box bg-gray-light">
                                     <div class="icon">
                                         <span class="custom-icon-list"><span class="sr-only">&amp;</span></span>
                                     </div>
-                                    <h4 class="content-title"><a href="#">BOOTSTRAP GRID</a></h4>
+                                    <h4 class="content-title"><a href="#">DATABASE MANAGEMENT</a></h4>
                                     <div class="des">
-                                        <p>Auersla, conse ctetur adipis icing lorem ipsum dolor sit amet</p>
+                                        <p>Database refers to the storage of data and supported data structures.</p>
+                                    </div>
+                                    <div class="link-holder">
+                                        <a class="link-more" href="#">LEARN MORE</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-4 col-md-6">
+                            <div class="col-wrap">
+                                <div class="ico-box bg-gray-light">
+                                    <div class="icon">
+                                        <span class="bi bi-pen"><span class="sr-only">&amp;</span></span>
+                                    </div>
+                                    <h4 class="content-title"><a href="#"> CONTENT WRITING</a></h4>
+                                    <div class="des">
+                                        <p>What is content writing? It is a process of creating digital content.</p>
+                                    </div>
+                                    <div class="link-holder">
+                                        <a class="link-more" href="#">LEARN MORE</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-4 col-md-6">
+                            <div class="col-wrap">
+                                <div class="ico-box bg-gray-light">
+                                    <div class="icon">
+                                        <span class="bi bi-camera"><span class="sr-only">&amp;</span></span>
+                                    </div>
+                                    <h4 class="content-title"><a href="#">PHOTOGRAPHY</a></h4>
+                                    <div class="des">
+                                        <p>A photo essay tells a story or emotion through a series of photos that allow viewers to let you get creative explore an idea.</p>
+                                    </div>
+                                    <div class="link-holder">
+                                        <a class="link-more" href="#">LEARN MORE</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-4 col-md-6">
+                            <div class="col-wrap">
+                                <div class="ico-box bg-gray-light">
+                                    <div class="icon">
+                                        <span class="bi bi-diagram-3"><span class="sr-only">&amp;</span></span>
+                                    </div>
+                                    <h4 class="content-title"><a href="#"> HIRING SERVICES & MARKETING SERVICES</a></h4>
+                                    <div class="des">
+                                        <p>Abstract integrated marketing communication is a promotional tool for achieving the goals of a marketing campaign.</p>
                                     </div>
                                     <div class="link-holder">
                                         <a class="link-more" href="#">LEARN MORE</a>
@@ -332,8 +364,6 @@
                     </div>
                 </div>
             </section>
-
-
             <section class="content-block quotation-block quotation-block-v5 black-overlay-5 parallax" data-stellar-background-ratio="0.55">
                 <div class="container">
                     <div class="inner-wrapper">
